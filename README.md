@@ -85,6 +85,7 @@ Code for this project is available upon request and can be discussed in intervie
 
 ## 📬 Contact
 
-Created by: [Amirdha Saravanan]  
+Created by: Amirdha Saravanan
+
 Email: amirdhas02@gmail.com  
 LinkedIn: [linkedin.com/in/amirdha-s](https://www.linkedin.com/in/amirdha-s/)
