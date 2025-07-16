@@ -55,6 +55,7 @@ These concepts parallel how embedded memory arrays in microcontroller systems mu
 ## ⚠️ Disclaimer
 
 This project is based on an academic simulation and does not reflect proprietary work or physical device measurements.
+Code for this project is available upon request and can be discussed in interviews. To maintain confidentiality, only core methodology and results are presented here.
 
 
 ---
