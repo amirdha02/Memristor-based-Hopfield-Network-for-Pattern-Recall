@@ -15,6 +15,9 @@ This model conceptually mirrors the behavior of **memristive NVM elements** and 
 - Explored how **pattern stability and overlap** impact recall outcomes
 
 
+![Workflow Diagram](Results/Image1-Workflow.png)  
+*A diagram of the project workflow showing input, processing, and recall steps*
+
 ---
 
 ## ⚙️ Tools & Technologies
@@ -36,8 +39,29 @@ This model conceptually mirrors the behavior of **memristive NVM elements** and 
 ---
 
 ## 📷 Visuals (Examples)
-![Workflow Diagram](Results/Image1-Workflow.png)  
-*A diagram of the project workflow showing input, processing, and recall steps*
+![Uncorrelated Input](Results/Image2-Uncorrelated_Input.png)  
+*Uncorrelated Inputs*
+
+
+![Uncorrelated Input](Results/Image3-Uncorrelated_Input-Weight_Matrix.png)  
+*Weight Matrix of Uncorrelated Inputs mapped to resistor values*
+
+
+![Uncorrelated Input](Results/Image4-Recalled_Pattern-Uncorrelated_Input.png)  
+*Recalled Pattern for Uncorrelated Inputs*
+
+
+![Uncorrelated Input](Results/Image5-Correlated_Input.png)  
+*Correlated Inputs*
+
+
+![Uncorrelated Input](Results/Image6-Correlated_Input-Weight_matrix.png)  
+*Weight Matrix of Correlated Inputs mapped to resistor values*
+
+
+
+![Uncorrelated Input](Results/Image7-RecalledPattern-Correlated_Input.png)  
+*Recalled Pattern for Correlated Inputs*
 
 
 
