@@ -15,9 +15,6 @@ This model conceptually mirrors the behavior of **memristive NVM elements** and 
 - Explored how **pattern stability and overlap** impact recall outcomes
 
 
-![Workflow Diagram](Results/Image1-Workflow.png)  
-*A diagram of the project workflow showing input, processing, and recall steps*
-
 ---
 
 ## ⚙️ Tools & Technologies
