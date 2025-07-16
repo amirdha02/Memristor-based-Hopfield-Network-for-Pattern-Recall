@@ -36,10 +36,7 @@ This model conceptually mirrors the behavior of **memristive NVM elements** and 
 ---
 
 ## 📷 Visuals (Examples)
-![Workflow Diagram](results/Image%201%20-%20Workflow.png)  
-*A diagram of the project workflow showing input, processing, and recall steps*
-
-![Uncorrelated Input](results/Image%202%20-%20Uncorrelated%20Input.png)  
+![Workflow Diagram](Results/Image1-Workflow.png)  
 *A diagram of the project workflow showing input, processing, and recall steps*
 
 
